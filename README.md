@@ -2,6 +2,12 @@
 
 ## Releases and changelog
 
+### 0.1.2
+
+- 23.02.2024
+- Bug fixes, added theme suport for fairytales (light dark), added filtering based on author, category or label. Added setting screen for user to change the theme.
+- [Download Link here](https://drive.google.com/file/d/1l-FTDnboaKJ3e-6QHoIoe8uWrwwLalfH/view?usp=sharing)
+
 ### 0.1.1
 
 - 15.02.2024
@@ -13,3 +19,9 @@
 - Date unknown
 - Initial release
 - [Download Link here](https://drive.google.com/file/d/1QJlUCBwTY-VKjMnQ8m43pm3-y_hf_u2r/view?usp=drive_link)
+
+# TODO
+
+- [x] Better req/res architecture for the app
+- [x] Add more smart global state management to prevent req/res from being called multiple times
+- [x] Add layer between CMS and app to prevent direct access to the CMS
