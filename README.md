@@ -2,6 +2,14 @@
 
 ## Releases and changelog
 
+### 0.1.3
+
+- 25.02.2024
+- Bug fixes (problem on foldable screens),
+- Added descending sorting of any queries
+- Added text-justification for better readability
+- [Download Link here](https://drive.google.com/file/d/1TK1ArAswu8coxluAkk4VkmHQ2m756d1b/view?usp=drive_link)
+
 ### 0.1.2
 
 - 23.02.2024
