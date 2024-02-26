@@ -2,6 +2,14 @@
 
 ## Releases and changelog
 
+### 0.1.5
+
+- 26.02.2024
+- Admin panel - was removed, fuck that sh1t
+- Removed dynamic loading with Async storage to prevent client from unwanted requests
+- Added support to turn on/off images [defaul = true]
+- [Download Link here](https://drive.google.com/file/d/1M73RX7_iFkUgH7QxRFH-2CopGLJ2zQ7J/view?usp=sharing)
+
 ### 0.1.4
 
 - 26.02.2024
