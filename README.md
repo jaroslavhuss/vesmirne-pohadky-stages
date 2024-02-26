@@ -2,6 +2,12 @@
 
 ## Releases and changelog
 
+### 0.1.4
+
+- 26.02.2024
+- Admin panel - flush fairytale data out of the device
+- [Download Link here](https://drive.google.com/file/d/14_zyPdQ4rbJkHdPlccisRqLs6ZgCNwCT/view?usp=sharing)
+
 ### 0.1.3
 
 - 25.02.2024
