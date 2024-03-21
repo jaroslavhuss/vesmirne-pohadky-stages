@@ -2,6 +2,15 @@
 
 ## Releases and changelog
 
+### 0.2.0
+
+- 21.03.2024
+- App accepts only minified pictures 400x400
+- App does huge heavy lifting when working with sources - minimum calls to the server
+- Bug fixes
+- Update of settings - you can clear cache as well as local image memory
+- [Download Link here](https://drive.google.com/file/d/17Nvx1wbUukgW4ale0UoDxz-LTrZFowRH/view?usp=sharing)
+
 ### 0.1.5
 
 - 26.02.2024
