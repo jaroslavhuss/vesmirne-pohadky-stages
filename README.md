@@ -2,6 +2,15 @@
 
 ## Releases and changelog
 
+### 0.3.0
+
+- 17.04.2024
+- The mechanism behind source files download was completely changed. Now to user has full control over it. 
+- Minor bug fixes
+- IOS support finally (adhoc distribution)
+- [ANDROID: Download Link here](https://drive.google.com/file/d/17Nvx1wbUukgW4ale0UoDxz-LTrZFowRH/view?usp=sharing)
+- [IOS: Download link here](itms-services://?action=download-manifest&url=https://rgtests.cz/apps/pohadky-native.plist)
+
 ### 0.2.0
 
 - 21.03.2024
