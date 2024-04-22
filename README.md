@@ -7,9 +7,9 @@
 - 17.04.2024
 - The mechanism behind source files download was completely changed. Now to user has full control over it. 
 - Minor bug fixes
-- IOS support finally (adhoc distribution)
-- [ANDROID: Download Link here](https://drive.google.com/file/d/17Nvx1wbUukgW4ale0UoDxz-LTrZFowRH/view?usp=sharing)
-- [IOS: Download link here](itms-services://?action=download-manifest&url=https://rgtests.cz/apps/pohadky-native.plist)
+- IOS support (adhoc distribution)
+- [ANDROID: Download Link here](https://drive.google.com/file/d/1gwS1EK4QWwHOcgj-3tCTZwapJUupK0bQ/view?usp=sharing)
+- <a href="itms-services://?action=download-manifest&url=https://rgtests.cz/apps/pohadky-native.plist">IOS: Download here</a>
 
 ### 0.2.0
 
